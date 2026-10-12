@@ -8,7 +8,7 @@ version:
   architecture: amd64
 Client:
   server_urls:
-  - https://cakra-logs.punggawa.com:10006/
+  - https://cakra-logs.punggawa.app:24003/
   ca_certificate: |
     -----BEGIN CERTIFICATE-----
     MIIDSzCCAjOgAwIBAgIQePMXa3rqhz138ZUM/jIL7zANBgkqhkiG9w0BAQsFADAa
